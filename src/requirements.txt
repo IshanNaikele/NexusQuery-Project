@@ -1,0 +1,5 @@
+fastapi[all]
+pydantic
+firebase-admin
+python-dotenv
+pydantic_settings
